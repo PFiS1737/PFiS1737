@@ -19,7 +19,7 @@ I'm now a heigh school student.
 [![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=ffffff)](https://lesscss.org/)   
+[![](https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=ffffff)](https://lesscss.org/)  
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
