@@ -1,47 +1,61 @@
-### Hi, I'm PFiS. 👋
+## Hi, I'm PFiS. 👋
 
-I'm now a heigh school student.
+I'm now a college school student.
 
+<!--
 #### Social media
 
-[![](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/PFiS1737)
-[![](https://img.shields.io/badge/-Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/PFiS1737)
-[![](https://img.shields.io/badge/-Bilibili-00a1d6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/470803955)
-<!--[![](https://img.shields.io/badge/-Tencent%20QQ-eb1923?style=flat-square&logo=tencentqq&logoColor=white)]()-->
+[![](https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/PFiS1737)
+[![](https://img.shields.io/badge/Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/PFiS1737)
+[![](https://img.shields.io/badge/Bilibili-00a1d6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/470803955)
+[![](https://img.shields.io/badge/Tencent%20QQ-eb1923?style=flat-square&logo=tencentqq&logoColor=white)]()
+-->
 
-#### Platform & Tools
+#### Platforms & Tools
 
-[![](https://img.shields.io/badge/Android-9-3ddc84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
-[![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE%20on%20Android-Spck%20Editor-a7c6ff?style=flat-square)](https://play.google.com/store/apps/details?id=io.spck)
+[![](https://img.shields.io/badge/Android%209-34A853?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
+[![](https://img.shields.io/badge/Windows%2011-08a1f7?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![](https://img.shields.io/badge/iOS%2018-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/ph/ios)
+[![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org)
 
-[![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)  
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io)
+[![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+
+#### Languages & Frameworks
+
+[![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
+[![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
+[![](https://img.shields.io/badge/Postcss-DD3A0A?style=flat-square&logo=postcss&logoColor=white)](https://postcss.org)
+[![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![](https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com)
+[![](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io)
+[![](https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white)](https://biomejs.dev)
+
+[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org)
+[![](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
 
 #### Learning
 
-[![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Vuetify-1867c0?style=flat-square&logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
-[![](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/-WebAssembly-654ff0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
-[![](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)
+[![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w)
+[![](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org)
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![](https://img.shields.io/badge/WebAssembly-654ff0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org)
+[![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 
-#### Console & Game
+<!--
+#### Game
 
-[![](https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/pfis1737)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/pfis1737)
+-->
+
+<!--
+#### Sponsor
+
+[![](https://img.shields.io/badge/Patreon-ff424d?style=flat-square&logo=patreon&logoColor=white)]()
+-->
 
 #### Stats
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=PFiS1737&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--#### Sponsor
-
-[![](https://img.shields.io/badge/-Patreon-ff424d?style=flat-square&logo=patreon&logoColor=white)]()
--->
