@@ -58,4 +58,4 @@ I'm now a college school student.
 
 #### Stats
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=PFiS1737&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-pfis1737.vercel.app/api/top-langs/?username=PFiS1737&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
