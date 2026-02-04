@@ -44,10 +44,10 @@ I'm now a college school student.
 [![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org)
 [![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w)
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white)](https://riscv.org/)
 
 #### Learning
 
-[![](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white)](https://riscv.org/)
 [![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 [![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org)
