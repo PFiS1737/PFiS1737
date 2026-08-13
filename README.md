@@ -15,7 +15,7 @@ I'm now a college school student.
 
 [![](https://img.shields.io/badge/Android%209-34A853?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
 [![](https://img.shields.io/badge/Windows%2011-08a1f7?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![](https://img.shields.io/badge/iOS%2018-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/ph/ios)
+[![](https://img.shields.io/badge/iOS%2026-000000?style=flat-square&logo=ios&logoColor=white)](https://www.apple.com/ph/ios)
 [![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org)
 
 [![](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=white)](https://hypr.land/)
@@ -29,10 +29,10 @@ I'm now a college school student.
 #### Languages & Frameworks
 
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
-[![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
-[![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
+[![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
+[![](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
+[![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Postcss-DD3A0A?style=flat-square&logo=postcss&logoColor=white)](https://postcss.org)
 [![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![](https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com)
@@ -48,9 +48,8 @@ I'm now a college school student.
 
 #### Learning
 
-[![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 [![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
-[![](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org)
+[![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![](https://img.shields.io/badge/WebAssembly-654ff0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org)
 [![](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)](https://godotengine.org/)
